@@ -1,0 +1,3 @@
+C:\Users\Matt\Documents\FoxBox\FoxBoxCDemo\FoxBoxCDemo\bin\Release\FoxBoxCDemo.exe.config
+C:\Users\Matt\Documents\FoxBox\FoxBoxCDemo\FoxBoxCDemo\obj\Release\FoxBoxCDemo.exe
+C:\Users\Matt\Documents\FoxBox\FoxBoxCDemo\FoxBoxCDemo\obj\Release\FoxBoxCDemo.pdb
