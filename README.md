@@ -1,6 +1,5 @@
 # FoxBox
-(WIP) Program that I am working on that enables a user to open up several applications at once.
-There are a couple errors, but this is the open source beta for FoxBox.
+College class program that enables a user to create and save profiles for opening multiple window's files/programs at once.
 
 ------------------------
 -----SETUP GUIDE--------
